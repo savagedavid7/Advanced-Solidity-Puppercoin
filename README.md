@@ -20,6 +20,8 @@ I will create an ERC20 token that will be minted through a 'Crowdsale' contract 
 ### Crowdsale Parameters:
 
 * The Crowdsale will last 24 weeks.
+* The cap and goal for the CrowdSale is 3ETH
+* PupperCoin will have a 1 to 1 exchange rate with ETH.
 
 
 ![parameters](Images/parameters.PNG)
